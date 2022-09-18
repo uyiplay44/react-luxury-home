@@ -1,0 +1,34 @@
+.best{
+    width: 100%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.best > div {
+    display: flex;
+    justify-content: center;
+}
+.best > div p{
+    margin: 1rem 1rem;
+    font-size: 1.6rem;
+}
+.bold{
+    font-weight: 700;
+}
+.container-frame{
+    display: grid;
+    grid-template-columns: 8ch auto;
+    padding-bottom: 0rem;
+}
+.container-frame img {
+    width: 20%;
+    height: 16.5rem;
+    padding: 0.5rem;
+}
+.best h1{
+    text-align: center;
+}
+.btn-btn{
+    margin-left: 35rem;
+    width: 13%;
+}
